@@ -1,0 +1,15 @@
+D:\Study\САПР\Sapr\bin\Debug\Sapr.exe.config
+D:\Study\САПР\Sapr\bin\Debug\Sapr.exe
+D:\Study\САПР\Sapr\bin\Debug\Sapr.pdb
+D:\Study\САПР\Sapr\obj\Debug\Sapr.csprojAssemblyReference.cache
+D:\Study\САПР\Sapr\obj\Debug\Sapr.Form1.resources
+D:\Study\САПР\Sapr\obj\Debug\Sapr.Properties.Resources.resources
+D:\Study\САПР\Sapr\obj\Debug\Sapr.csproj.GenerateResource.cache
+D:\Study\САПР\Sapr\obj\Debug\Sapr.csproj.CoreCompileInputs.cache
+D:\Study\САПР\Sapr\obj\Debug\Sapr.exe
+D:\Study\САПР\Sapr\obj\Debug\Sapr.pdb
+D:\Study\САПР\Sapr\obj\Debug\Sapr.Form2.resources
+D:\Study\САПР\Sapr\obj\Debug\Sapr.Form3.resources
+D:\Study\САПР\Sapr\obj\Debug\Sapr.Form4.resources
+D:\Study\САПР\Sapr\obj\Debug\Sapr.Form5.resources
+D:\Study\САПР\Sapr\obj\Debug\Sapr.csproj.ResolveComReference.cache
